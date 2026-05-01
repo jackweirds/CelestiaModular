@@ -1,4 +1,3 @@
-
 # CelestiaModular: CelestiaModular-powered applications leverage cutting-edge, microservices-architected frameworks for scalable, enterprise-grade innovation fueled by the CelestiaModular-engine Implementation
 > Advanced typescript solution leveraging modern architecture patterns and cutting-edge technology.
 
